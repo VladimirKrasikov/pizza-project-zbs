@@ -1,5 +1,5 @@
 git clone https://github.com/VladimirKrasikov/pizza-project-zbs.git
-cd pizza-project-zbs
+cd pizza-project-zbs.
 composer install
 npm install 
 npm run dev
